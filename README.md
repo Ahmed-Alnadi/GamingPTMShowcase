@@ -1,6 +1,8 @@
 # GamingPTMShowcase
 GamingPTM App
 
+<img width="1251" height="780" alt="image" src="https://github.com/user-attachments/assets/419c16de-c565-4df4-88f6-40a524d84d14" />
+
 
 # GamingPTM
 
@@ -23,4 +25,7 @@ These rotate btw, it looks cool!
 
 
 <img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/a673744e-e20e-4340-9b09-670d812bea7a" />
+
+
+
 

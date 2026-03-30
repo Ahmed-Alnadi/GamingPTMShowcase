@@ -1,17 +1,17 @@
 # GamingPTMShowcase
-GamingPTM App
+## GamingPTM App
+
+## 
+GamingPTM is a Windows desktop system monitoring application built to provide a richer, more visual alternative to Task Manager. It lets users inspect running processes, Windows services, startup programs, live system performance, hardware details, and sensor data through a custom multi-page interface with searchable tables, animated cards, and graphs.
+
+The app combines native Windows APIs with hardware telemetry paths to surface CPU, memory, disk, network, and GPU information, while also giving users visibility into startup behavior and overall system activity. It is designed to be both more informative and more visually polished than the default Windows monitoring tools.
 
 <img width="1251" height="780" alt="image" src="https://github.com/user-attachments/assets/419c16de-c565-4df4-88f6-40a524d84d14" />
 
 
-# GamingPTM
 
-Native Windows desktop monitoring shell built with C++20 and Qt 6 Widgets.
 
-## Current Baseline
-GamingPTM is a Windows desktop system monitoring application built to provide a richer, more visual alternative to Task Manager. It lets users inspect running processes, Windows services, startup programs, live system performance, hardware details, and sensor data through a custom multi-page interface with searchable tables, animated cards, and graphs.
 
-The app combines native Windows APIs with hardware telemetry paths to surface CPU, memory, disk, network, and GPU information, while also giving users visibility into startup behavior and overall system activity. It is designed to be both more informative and more visually polished than the default Windows monitoring tools.
 
 These rotate btw, it looks cool!
 
